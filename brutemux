@@ -9,7 +9,7 @@ clear
 ./version
 echo "Select your choice"
 echo "1) Facebook"
-echo "1) Exit"
+echo "2) Exit"
 read -p ">|" choice
 if [ $choice = "1" ]
 then
