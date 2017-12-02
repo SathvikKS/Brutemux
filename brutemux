@@ -1,6 +1,6 @@
 cd $HOME/Brutemux
 curl -LO https://raw.githubusercontent.com/SathvikKS/T-Load/master/T-Embed/port
-curl -LO https://raw.githibusercontent.com/SathvikKS/Brutemux/Version/version1/version
+curl -LO https://raw.githubusercontent.com/SathvikKS/Brutemux/master/Version/version1/version
 https://raw.githibusercontent.com/SathvikKS/Brutemux/core
 chmod +x version
 chmod +x core
