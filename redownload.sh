@@ -1,5 +1,6 @@
 clear
 echo "Removing old version"
+rm /data/data/com.termux/files/usr/bin/brutemux
 echo "Downloading new version "
 mkdir $HOME/temp
 cd $HOME/temp
