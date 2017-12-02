@@ -9,12 +9,19 @@ clear
 ./version
 echo "Select your choice"
 echo "1) Facebook"
+echo "1) Exit"
 read -p ">|" choice
 if [ $choice = "1" ]
 then
 cd facebook
 clear
 ./facebook.sh
+sleep 2
+clear
+bruteforce
+elif [ $choice = "2" ]
+then
+exit
 else
 echo "Wrong Choice"
 fi
