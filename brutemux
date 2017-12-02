@@ -24,4 +24,5 @@ then
 exit
 else
 echo "Wrong Choice"
+brutemux
 fi
