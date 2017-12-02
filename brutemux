@@ -18,7 +18,7 @@ clear
 ./facebook.sh
 sleep 2
 clear
-bruteforce
+brutemux
 elif [ $choice = "2" ]
 then
 exit
